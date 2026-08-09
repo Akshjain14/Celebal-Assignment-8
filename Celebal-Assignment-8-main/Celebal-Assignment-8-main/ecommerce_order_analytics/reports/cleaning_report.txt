@@ -1,0 +1,10 @@
+DATA CLEANING REPORT
+========================================
+Missing customer_id rows: 40
+Unparseable order_date rows: 0
+Product names normalized: 48
+Invalid emails: 10
+Invalid order references: 0
+Negative quantities (returns): 58
+Zero quantities: 0
+Discounts > 100 corrected: 0
